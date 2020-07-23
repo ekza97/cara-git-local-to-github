@@ -1,6 +1,7 @@
-#cara menghapus .git/git ulang
-rm -rf .git
+
 # cara-git-local-to-github
+cara menghapus .git/git ulang
+#> rm -rf .git
 Cara Upload Project Local ke Github menggunakan Terminal
 1. Pertama buat repository terlebih dahulu di github anda
 2. Buak Folder project anda yang ada di local menggunakan terminal
