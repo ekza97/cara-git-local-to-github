@@ -7,8 +7,11 @@ Cara Menghapus .git/git ulang
 </pre>
 <br>
 Cara Upload Project Local ke Github menggunakan Terminal
+<br>
 1. Pertama buat repository terlebih dahulu di github anda
+<br>
 2. Buak Folder project anda yang ada di local menggunakan terminal
+<br>
 3. Inisialisa local folder sebagai Git Repository
 <br>
 <pre>
